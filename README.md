@@ -1,0 +1,1 @@
+# django2.2-python-3.6
